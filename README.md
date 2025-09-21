@@ -31,6 +31,3 @@ A Restaurant wanted to know Annual sales Growth.
 -	Lisbon is the highest city in sales.
 -	Online is the highest purchase type in sales.
 - Burgers are the highest product in sales.
-
-	 Online is the highest purchase type in sales.
-	Burgers are the highest product in sales.

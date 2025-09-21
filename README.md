@@ -14,7 +14,7 @@ A Restaurant wanted to know Annual sales Growth.
 -	Dashboard interaction.
   
 ## Data used
-- <a href=" https://github.com/Abdelrhman-Atef/Restuarant-Data-Analysis/blob/main/Restaurant-sales-Data-analysis.xlsx">Dataset</a>
+- <a href="https://github.com/Abdelrhman-Atef/Restuarant-Data-Analysis/blob/main/Restaurant-sales-Data-analysis.xlsx">Dataset</a>
 
 ## Process
 -	Make sure that data is organized and clean. 

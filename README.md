@@ -29,5 +29,8 @@ A Restaurant wanted to know Annual sales Growth.
 -	Beverages are the highest product in quantity.
 -	Credit Card is the highest percentage of payment method.
 -	Lisbon is the highest city in sales.
+-	Online is the highest purchase type in sales.
+- Burgers are the highest product in sales.
+
 	 Online is the highest purchase type in sales.
 	Burgers are the highest product in sales.
